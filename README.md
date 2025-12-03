@@ -425,18 +425,18 @@ git push heroku main
 
 ### Manual Testing Checklist
 
-- [x] User registration with valid data  
-- [x] User registration with duplicate email (should fail)  
-- [x] User login with correct credentials  
-- [x] User login with incorrect credentials (should fail)  
-- [x] Create task with all fields  
-- [x] Create task with only title  
-- [x] Edit task details  
-- [x] Toggle task completion status  
-- [x] Delete task  
-- [x] Filter tasks by status  
-- [x] Filter tasks by priority  
-- [x] Logout and verify session cleared
+- [✅] User registration with valid data  
+- [✅] User registration with duplicate email (should fail)  
+- [✅] User login with correct credentials  
+- [✅] User login with incorrect credentials (should fail)  
+- [✅] Create task with all fields  
+- [✅] Create task with only title  
+- [✅] Edit task details  
+- [✅] Toggle task completion status  
+- [✅] Delete task  
+- [✅] Filter tasks by status  
+- [✅] Filter tasks by priority  
+- [✅] Logout and verify session cleared
 
 ### API Testing with cURL
 
