@@ -494,7 +494,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-**TechNova Solutions**
+**Pravesh Burathoki**
 
 ## 🙏 Acknowledgments
 
